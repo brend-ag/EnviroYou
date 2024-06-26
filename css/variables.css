@@ -1,0 +1,20 @@
+:root{
+  --title-font: 'Rubik', 'Arial';
+
+  --orange: #FF944D;
+  --light-orange:#FFCC99;
+  --mauve: #F2C4AA;
+  --red-orange: #FA8C61;
+  --coral: #F58475;
+  --light-purple:#D9B3CC;
+  --medium-purple: #CCAADD;
+  --blue-purple:#B399FF;
+  --purple: #D24DFF;
+
+  --dark-teal: #1B998B;
+  --medium-brown: #FF9B71;
+  --mellow-yellow: #FFFD82;
+  --light-blue: #C1E0F7;
+  --hot-pink: #ED217C;
+  --deep-blue: #006D77;
+}
